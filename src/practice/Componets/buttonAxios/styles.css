@@ -1,0 +1,47 @@
+.pageTitle {
+  color: rgb(247, 187, 109);
+  align-items: center;
+  padding: 50px;
+  margin: 50;
+  font: 5em;
+}
+
+.dataContainer {
+  background: black;
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+  align-items: center;
+}
+
+.heartData {
+  display: flex;
+  width: 33%;
+  background: darkorange;
+  height: 200px;
+  align-items: center;
+  align-self: center;
+}
+
+.stepsData {
+  display: flex;
+  width: 33%;
+  background: darkorange;
+  height: 200px;
+  align-items: center;
+  align-content: center;
+}
+
+.weightData {
+  display: flex;
+  width: 33%;
+  background: darkorange;
+  height: 200px;
+  align-items: center;
+  align-content: center;
+}
+.date {
+  align-content: center;
+}
