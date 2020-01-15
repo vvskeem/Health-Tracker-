@@ -13,9 +13,10 @@ code {
   display: flex;
   flex-direction: row;
   overflow-x: scroll;
-  background-color: black;
+  background-color: #282c34;
 }
 .tron {
   height: 90vh;
   margin-bottom: 90px;
+  background-color: #282c34;
 }

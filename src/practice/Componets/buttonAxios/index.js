@@ -37,16 +37,16 @@ export default class PersonList extends React.Component {
   render() {
     return (
       <div>
-        <h1 className="pageTitle">Doctors View</h1>
-        <button onClick="">Get New Updates</button>
+        <h1 className="pageTitle">VVS Health Tracker</h1>
+        {/* <button onClick="">Get New Updates</button> */}
 
         <div className="dataContainer">
           <div className="heartData">
             {this.state.heartData.length && (
               <div>
-                <h1>Heart</h1>
+                <h1 className="headerTitle">Heart</h1>
                 <h2>{this.state.heartData[0].sourceName}</h2>
-                <h3>{this.state.heartData[0].value}</h3>
+                <h3>{this.state.heartData[0].value} bpm</h3>
                 <h5 className="date">{this.state.heartData[0].heartDate}</h5>
               </div>
             )}
@@ -55,8 +55,8 @@ export default class PersonList extends React.Component {
           <div className="weightData">
             {this.state.heartData.length && (
               <div>
-                <h1>Weight</h1>
-                <h2>{this.state.weightData[0].trackWeight}</h2>
+                <h1 className="headerTitle">Weight</h1>
+                <h2>{this.state.weightData[0].trackWeight} lbs</h2>
                 <h5 className="date">{this.state.weightData[0].weightDate}</h5>
               </div>
             )}
@@ -65,8 +65,8 @@ export default class PersonList extends React.Component {
           <div className="stepsData">
             {this.state.heartData.length && (
               <div>
-                <h1>Steps</h1>
-                <h2>{this.state.stepsData[0].stepsToday}</h2>
+                <h1 className="headerTitle">Steps</h1>
+                <h2>{this.state.stepsData[0].stepsToday} steps</h2>
                 <h5 className="date">{this.state.stepsData[0].stepsDate}</h5>
               </div>
             )}

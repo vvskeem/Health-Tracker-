@@ -1,5 +1,5 @@
 .pageTitle {
-  color: rgb(247, 187, 109);
+  color: red;
   align-items: center;
   padding: 50px;
   margin: 50;
@@ -7,7 +7,7 @@
 }
 
 .dataContainer {
-  background: black;
+  background: #282c34;
   width: 100%;
   height: 50vh;
   display: flex;
@@ -19,7 +19,7 @@
 .heartData {
   display: flex;
   width: 33%;
-  background: darkorange;
+  background: red;
   height: 200px;
   align-items: center;
   align-self: center;
@@ -28,7 +28,7 @@
 .stepsData {
   display: flex;
   width: 33%;
-  background: darkorange;
+  background: red;
   height: 200px;
   align-items: center;
   align-content: center;
@@ -37,11 +37,17 @@
 .weightData {
   display: flex;
   width: 33%;
-  background: darkorange;
+  background: red;
   height: 200px;
   align-items: center;
   align-content: center;
 }
 .date {
   align-content: center;
+}
+.headerTitle {
+  color: whitesmoke;
+  display: flex;
+  justify-content: last baseline;
+  margin-bottom: 50px;
 }

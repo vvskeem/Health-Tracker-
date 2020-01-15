@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import Header from "./practice";
 import TopicCards from "./practice/Componets/TopicCards";
@@ -17,33 +16,29 @@ function App() {
         />
       </div>
       <div>
-        <h3 className="title">IOT SOLUTIONS OF THE FUTURE</h3>
+        <h3 className="title">Research</h3>
       </div>
       <div className="card-container">
         <TopicCards
-          image="https://i.pinimg.com/originals/46/81/3e/46813ea4f1c272cca94e44bc2c9f1d74.jpg"
-          content="example text"
+          image="https://miro.medium.com/max/1540/1*6olU7U29Vvokla_URK0ANg.png"
           title="Beacon Technology"
           solution="Beacons"
-          link="#"
+          link="https://estimote.com/"
         />
         <TopicCards
           image="https://www.medicaldevice-network.com/wp-content/uploads/sites/11/2019/10/Wearable-Tech-in-Healthcare.jpg"
-          content="example text"
-          title="Personalized Healthcare"
+          title="Automated Healthcare"
           solution="vvs Health Tracker"
           link="#"
         />
         <TopicCards
-          image="http://www.smarthomegcc.com/img/about.jpg"
-          content="example text"
+          image="https://cdn.homedit.com/wp-content/uploads/2010/08/14.jpg"
           title="Smart Home Technologies"
           solution="iHome"
-          link="#"
+          link="https://www.lg.com/us/lg-thinq?cmpid=SEM_GMC_ThinQ_2019ThinQ_Brand_Google_ThinQ_k1167_US_Brand_PC&gclid=Cj0KCQiAovfvBRCRARIsADEmbRL1t4dl9g-ajVBFXQFGUXNbKhCYtR6L2yZJWCICmTEoTw4CB3QsI3gaAg8EEALw_wcB"
         />
         <TopicCards
-          image="https://i.pinimg.com/originals/fd/92/91/fd9291101f5f4ff1a766cda54b98529e.jpg"
-          content="example text"
+          image="https://hackaday.com/wp-content/uploads/2019/07/FarmBot-Genesis-XL.jpg?w=800"
           title="Agriculture Revolution"
           solution="Robotic Farming"
           link="https://farm.bot/"
