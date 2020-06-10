@@ -44,7 +44,10 @@ export default class PersonList extends React.Component {
           <div className="cards">
             <div className="face face1">
               <div className="content">
-                <img src="https://cdn4.iconfinder.com/data/icons/business-line-icons-vol-2/65/70-512.png" />
+                <img
+                  src="https://cdn4.iconfinder.com/data/icons/business-line-icons-vol-2/65/70-512.png"
+                  alt=""
+                />
                 <h3>Heart</h3>
               </div>
             </div>
@@ -69,7 +72,10 @@ export default class PersonList extends React.Component {
           <div className="cards">
             <div className="face face1">
               <div className="content">
-                <img src="https://static.thenounproject.com/png/575940-200.png" />
+                <img
+                  src="https://static.thenounproject.com/png/575940-200.png"
+                  alt=""
+                />
                 <h3>Weight</h3>
               </div>
             </div>
@@ -92,7 +98,10 @@ export default class PersonList extends React.Component {
           <div className="cards">
             <div className="face face1">
               <div className="content">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQOgqkm8MRF5Jdjvbc3dinCcid_YJyiGMQ2fJbtaj6INH8Lp76&usqp=CAU" />
+                <img
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSQOgqkm8MRF5Jdjvbc3dinCcid_YJyiGMQ2fJbtaj6INH8Lp76&usqp=CAU"
+                  alt=""
+                />
                 <h3>Steps</h3>
               </div>
             </div>
