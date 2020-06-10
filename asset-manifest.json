@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.f16de723.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.3fa4b817.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.3fa4b817.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.46bc41ec.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.46bc41ec.js.map",
-    "static/js/2.8a59a620.chunk.js": "/react-gh-pages/static/js/2.8a59a620.chunk.js",
-    "static/js/2.8a59a620.chunk.js.map": "/react-gh-pages/static/js/2.8a59a620.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.25cfbb31a1f6a97eacc3402f3e10c43d.js": "/react-gh-pages/precache-manifest.25cfbb31a1f6a97eacc3402f3e10c43d.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.f16de723.chunk.css.map": "/react-gh-pages/static/css/main.f16de723.chunk.css.map",
-    "static/js/2.8a59a620.chunk.js.LICENSE": "/react-gh-pages/static/js/2.8a59a620.chunk.js.LICENSE"
+    "main.css": "/health-tracker-/static/css/main.f16de723.chunk.css",
+    "main.js": "/health-tracker-/static/js/main.f01c9907.chunk.js",
+    "main.js.map": "/health-tracker-/static/js/main.f01c9907.chunk.js.map",
+    "runtime-main.js": "/health-tracker-/static/js/runtime-main.1daa2e88.js",
+    "runtime-main.js.map": "/health-tracker-/static/js/runtime-main.1daa2e88.js.map",
+    "static/js/2.8a59a620.chunk.js": "/health-tracker-/static/js/2.8a59a620.chunk.js",
+    "static/js/2.8a59a620.chunk.js.map": "/health-tracker-/static/js/2.8a59a620.chunk.js.map",
+    "index.html": "/health-tracker-/index.html",
+    "precache-manifest.e1b1318e7e0d03cb8390cc841548a86e.js": "/health-tracker-/precache-manifest.e1b1318e7e0d03cb8390cc841548a86e.js",
+    "service-worker.js": "/health-tracker-/service-worker.js",
+    "static/css/main.f16de723.chunk.css.map": "/health-tracker-/static/css/main.f16de723.chunk.css.map",
+    "static/js/2.8a59a620.chunk.js.LICENSE": "/health-tracker-/static/js/2.8a59a620.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.46bc41ec.js",
+    "static/js/runtime-main.1daa2e88.js",
     "static/js/2.8a59a620.chunk.js",
     "static/css/main.f16de723.chunk.css",
-    "static/js/main.3fa4b817.chunk.js"
+    "static/js/main.f01c9907.chunk.js"
   ]
 }
